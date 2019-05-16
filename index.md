@@ -1,6 +1,6 @@
 ## Welcome to Canna King Extracts! We specialize in high quaility extracts and bud. 
 
-We are based in Atlanta, but all products are made and sols in norcal, only at licensed dispensaries. 
+We are based in Atlanta, but all products are made in norcal, only at licensed dispensaries. 
 
 We are a newer company and we have a long way to go, but all support is appriciated. 
 
