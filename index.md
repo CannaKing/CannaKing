@@ -1,15 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Canna King Extracts! We specialize in high quaility extracts and bud. 
 
-You can use the [editor on GitHub](https://github.com/CannaKing/CannaKing/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are based in Atlanta, but all products are made and sols in norcal, only at licensed dispensaries. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a newer company and we have a long way to go, but all support is appriciated. 
 
-### Markdown
+### Products
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We mainly carry exclsuive fvalors of pod-cartridge's, all conatining no PEG, PG, VG or MCT. Our pods only contain distiliite and terps. 
 
-```markdown
-Syntax highlighted code block
+
+
 
 # Header 1
 ## Header 2
@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
